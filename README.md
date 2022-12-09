@@ -8,3 +8,5 @@ Estimated parameter script per species
 Excel files with data used per species
 Beverton-Holt recruitment script: bh & cpp
 Ricker recruitment script: ricker & cpp
+
+[![DOI](https://zenodo.org/badge/576206732.svg)](https://zenodo.org/badge/latestdoi/576206732)
